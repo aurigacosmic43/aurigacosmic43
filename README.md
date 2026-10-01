@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Puneet 👋
+# Hi, I'm Ashish Rawat 👋
 
-**Software Developer** · Computer Science Graduate (2026) · Gurugram, India
+**Software Developer** · Computer Science Graduate (2026) · Dehradun, India
 
 I work across the full development lifecycle — design, implementation, testing, deployment, and support — and have contributed to a live platform serving **10,000+ daily active users**. Open to opportunities anywhere in India.
 
@@ -44,12 +44,12 @@ I work across the full development lifecycle — design, implementation, testing
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Puneet-TH&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puneet-TH&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Raw-Ashish&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raw-Ashish&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Puneet-TH&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Raw-Ashish&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Puneet-TH&theme=tokyo-night&hide_border=true" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Raw-Ashish&theme=tokyo-night&hide_border=true" width="90%"/>
 
 </div>
 
@@ -57,6 +57,6 @@ I work across the full development lifecycle — design, implementation, testing
 
 <div align="center">
 
-📫 Reach me at **thapliyalpuneet84@gmail.com**
+📫 Reach me at **ashishrawat0401@gmail.com**
 
 </div>
